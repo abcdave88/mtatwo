@@ -1,0 +1,60 @@
+
+body{
+  background-image: url('http://fc03.deviantart.net/fs42/f/2009/084/5/2/New_York_Black_And_White_by_Morgadu.jpg');
+}
+#content
+{
+ margin: 0px auto;
+ width: 700px;
+ text-align: center;
+}
+
+#nav
+{
+ margin: 50px 0px;
+}
+
+
+h1
+{
+ font-family: 'Lora';
+ color: white;
+ font-size: 50px;
+}
+
+#account1
+{
+ float: left;
+}
+
+#account2
+{
+ float: right;
+}
+
+.account
+{
+ padding: 10px;
+ border: 1px solid #295A33 ;
+ background-color: #6C9A74 ;
+}
+
+.balance
+{
+ font-family: 'Ruluko', sans-serif;
+ font-size: 50px;
+ padding: 25px 0px;
+ background-color: #E3E3E3 ;
+ border: 1px solid #676767 ;
+}
+
+.clear
+{
+ clear: both;
+}
+
+.zero
+{
+ background-color: #F52F4F ;
+ color: #FFFFFF ;
+}
